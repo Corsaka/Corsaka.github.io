@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
+
 h1,h2,h3,h4,h5,h6 {font-family:'Courier New', Courier, monospace}
 
-.flex-container {height: 100%;padding: 0;margin: 0;display: flex;align-items: center;justify-content: center;}
+body {background-color: #d3d3d3}
+
+.container { width: auto; max-width: 1170px; margin-left: auto; margin-right: auto}
